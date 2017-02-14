@@ -1,0 +1,23 @@
+{
+  "name": "stealjs-esri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "steal-tools"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esri-leaflet": "^2.0.7",
+    "leaflet": "^1.0.3",
+    "steal": "^1.2.5",
+    "steal-css": "^1.2.1",
+    "steal-tools": "^1.1.2"
+  },
+  "steal": {
+    "plugins": [
+      "steal-css"
+    ]
+  }
+}
