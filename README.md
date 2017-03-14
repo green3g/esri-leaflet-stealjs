@@ -1,6 +1,10 @@
 # esri-leaflet-stealjs
 A repo demonstrating an esri-leaflet and stealjs app
 
+# Production demo:
+
+https://roemhildtg.github.io/esri-leaflet-stealjs/index-prod.html
+
 # Setup:
 
 Get the dependencies:
